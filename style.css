@@ -1,0 +1,15 @@
+.card {
+    width: 300px;
+    padding: 20px;
+    background-color:  rgb(166, 102, 209);
+    border: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+header {
+    text-align: center;
+}
